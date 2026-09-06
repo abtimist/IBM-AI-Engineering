@@ -2,6 +2,11 @@
 
 **Status:** ✅ Completed
 
+## Certificate
+<a href="./certificate/certificate.pdf">
+    <img src="./certificate/certificate.png" width="100%" alt="Course 1 Certificate">
+</a>
+
 ## Overview
 This course dives into the core principles of Machine Learning using Python. It covers supervised learning (classification and regression), unsupervised learning (clustering and dimensionality reduction), and evaluating model performance using Scikit-learn.
 
@@ -37,5 +42,3 @@ This course dives into the core principles of Machine Learning using Python. It 
 - **Practice Project:** [Titanic Survival Prediction](./notebooks/Practice_Project_Titanic_Survival.ipynb)
 - **Final Project:** [AUS Weather Rainfall Prediction](./notebooks/Final_Project_AUS_Weather_Prediction.ipynb)
 
-## Certificate
-<img src="./certificate/certificate.png" width="600" alt="Course 1 Certificate">

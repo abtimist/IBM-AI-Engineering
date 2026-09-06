@@ -2,6 +2,11 @@
 
 **Status:** ✅ Completed
 
+## Certificate
+<a href="./certificate/certificate.pdf">
+    <img src="./certificate/certificate.png" width="100%" alt="Course 2 Certificate">
+</a>
+
 ## Overview
 This course introduces Deep Learning and Neural Networks, exploring foundational concepts such as forward propagation, backpropagation, and activation functions. It applies these concepts practically using the Keras framework to build and evaluate regression, classification, Convolutional (CNN), and Transformer models.
 
@@ -22,5 +27,3 @@ This course introduces Deep Learning and Neural Networks, exploring foundational
 - **Aircraft Damage Classification & Captioning:** [Final_Project_Aircraft_Damage_Classification.ipynb](./notebooks/Final_Project_Aircraft_Damage_Classification.ipynb)
   - *Note: This project leverages VGG16 for feature extraction and a pre-trained BLIP model for image captioning. The notebook is structurally complete but is intended to be executed natively in the IBM Skills Network environment.*
 
-## Certificate
-<img src="./certificate/certificate.png" width="600" alt="Course 2 Certificate">
