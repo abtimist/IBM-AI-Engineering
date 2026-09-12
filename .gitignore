@@ -27,3 +27,4 @@ data/
 *.zip
 *.tar
 *.gz
+.venv/

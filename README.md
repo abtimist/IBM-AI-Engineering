@@ -2,8 +2,8 @@
 
 > **Status: In Progress**
 > 
-> Completed: Course 1 / Course 2  
-> Remaining: Courses 3–13
+> Completed: Course 1 / Course 2 / Course 3  
+> Remaining: Courses 4–13
 
 This repository documents my ongoing progress through the **[IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)** on Coursera. This 13-course program is designed by IBM to provide deep practical skills in machine learning and deep learning using Python, covering libraries such as Scikit-learn, Keras, PyTorch, and TensorFlow, as well as modern Generative AI techniques.
 
@@ -13,7 +13,7 @@ This repository documents my ongoing progress through the **[IBM AI Engineering 
 |---|--------|--------|
 | 1 | [Machine Learning with Python](./Course-1-Machine-Learning-with-Python/) | ✅ Completed |
 | 2 | [Introduction to Deep Learning & Neural Networks with Keras](./Course-2-Introduction-to-Deep-Learning/) | ✅ Completed |
-| 3 | [Deep Learning with Keras and Tensorflow](./Course-3-Deep-Learning-Keras-TensorFlow/) | ⏳ Pending |
+| 3 | [Deep Learning with Keras and Tensorflow](./Course-3-Deep-Learning-Keras-TensorFlow/) | ✅ Completed |
 | 4 | [Introduction to Neural Networks and PyTorch](./Course-4-Neural-Networks-PyTorch/) | ⏳ Pending |
 | 5 | [Deep Learning with PyTorch](./Course-5-Deep-Learning-PyTorch/) | ⏳ Pending |
 | 6 | [AI Capstone Project with Deep Learning](./Course-6-AI-Capstone-Deep-Learning/) | ⏳ Pending |
