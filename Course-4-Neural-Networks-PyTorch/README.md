@@ -2,6 +2,11 @@
 
 **Status:** ✅ Completed
 
+## Certificate
+<a href="./certificate/certificate.pdf">
+    <img src="./certificate/certificate.png" width="100%" alt="Course 4 Certificate">
+</a>
+
 ## Overview
 This course covers the fundamentals of PyTorch, ranging from 1D and 2D tensors to building and training full neural networks. Key topics include derivatives and computation graphs in PyTorch, linear regression (1D and multiple outputs), logistic regression, and gradient descent optimization methods (Stochastic and Mini-Batch).
 
