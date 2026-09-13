@@ -23,6 +23,7 @@ env/
 
 # Large Data Sets
 data/
+images_dataSAT/
 *.csv
 *.zip
 *.tar
