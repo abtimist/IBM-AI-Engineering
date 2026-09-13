@@ -2,6 +2,11 @@
 
 **Status:** ✅ Completed
 
+## Certificate
+<a href="./certificate/certificate.pdf">
+    <img src="./certificate/certificate.png" width="100%" alt="Course 5 Certificate">
+</a>
+
 ## Overview
 This course covers advanced Deep Learning concepts using PyTorch, including Softmax classification, Multi-Layer Perceptrons (MLPs), activation functions (Sigmoid, Tanh, ReLU), weight initialization (Default, Xavier, He), regularization techniques (Dropout, Batch Normalization), optimization with Momentum, Convolutional Neural Networks (CNNs, 1D/2D, Multiple Channels, Max Pooling), and practical computer vision applications.
 
