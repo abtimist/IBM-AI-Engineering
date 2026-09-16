@@ -2,8 +2,8 @@
 
 > **Status: In Progress**
 > 
-> Completed: Course 1 / Course 2 / Course 3 / Course 4 / Course 5 / Course 6  
-> Remaining: Courses 7–13
+> Completed: Course 1 / Course 2 / Course 3 / Course 4 / Course 5 / Course 6 / Course 7 / Course 8  
+> Remaining: Courses 9–13
 
 This repository documents my ongoing progress through the **[IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)** on Coursera. This 13-course program is designed by IBM to provide deep practical skills in machine learning and deep learning using Python, covering libraries such as Scikit-learn, Keras, PyTorch, and TensorFlow, as well as modern Generative AI techniques.
 
@@ -17,8 +17,8 @@ This repository documents my ongoing progress through the **[IBM AI Engineering 
 | 4 | [Introduction to Neural Networks and PyTorch](./Course-4-Neural-Networks-PyTorch/) | ✅ Completed |
 | 5 | [Deep Learning with PyTorch](./Course-5-Deep-Learning-PyTorch/) | ✅ Completed |
 | 6 | [AI Capstone Project with Deep Learning](./Course-6-AI-Capstone-Deep-Learning/) | ✅ Completed |
-| 7 | [Generative AI and LLMs: Architecture and Data Preparation](./Course-7-Generative-AI-LLMs-Architecture/) | ⏳ Pending |
-| 8 | [Gen AI Foundational Models for NLP & Language Understanding](./Course-8-Gen-AI-NLP-Language-Understanding/) | ⏳ Pending |
+| 7 | [Generative AI and LLMs: Architecture and Data Preparation](./Course-7-Generative-AI-LLMs-Architecture/) | ✅ Completed |
+| 8 | [Gen AI Foundational Models for NLP & Language Understanding](./Course-8-Gen-AI-NLP-Language-Understanding/) | ✅ Completed |
 | 9 | [Generative AI Language Modeling with Transformers](./Course-9-Generative-AI-Language-Modeling/) | ⏳ Pending |
 | 10 | [Generative AI Engineering and Fine-Tuning Transformers](./Course-10-Generative-AI-Engineering-FineTuning/) | ⏳ Pending |
 | 11 | [Generative AI Advanced Fine-Tuning for LLMs](./Course-11-Generative-AI-Advanced-FineTuning/) | ⏳ Pending |

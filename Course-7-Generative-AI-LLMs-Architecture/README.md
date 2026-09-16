@@ -1,5 +1,5 @@
 # Course 7: Generative AI and LLMs: Architecture and Data Preparation
 
-> **Status: ⏳ Pending**
+> **Status: ✅ Completed**
 
-This course has not been started yet. Content will be added here as I progress through the IBM AI Engineering Professional Certificate.
+This course has been completed. The associated notebooks cover topics on generative AI libraries, architecture, data preparation, and tokenization.
