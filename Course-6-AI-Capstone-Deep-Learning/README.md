@@ -2,6 +2,10 @@
 
 **Status:** ✅ Completed
 
+## Certificate
+<a href="./certificate/certificate.pdf">
+    <img src="./certificate/certificate.png" width="100%" alt="Course 6 Certificate">
+</a>
 ## Overview
 This capstone project focuses on building, training, evaluating, and comparing end-to-end Deep Learning models for satellite land/agricultural image classification using both **Keras / TensorFlow** and **PyTorch**, as well as advanced **Vision Transformer (ViT) and CNN-ViT Hybrid** architectures.
 
