@@ -1,19 +1,34 @@
-# Course 8: Gen AI Foundational Models for NLP & Language Understanding
-
-> **Status: ✅ Completed**
+# Course 8 — Gen AI Foundational Models for NLP & Language Understanding
 
 ## Certificate
-<a href="./certificate/certificate.pdf">
-    <img src="./certificate/certificate.png" width="100%" alt="Course 8 Certificate">
-</a>
+<div align="center">
+  <a href="./certificate/certificate.pdf">
+    <img src="./certificate/certificate.png" alt="Course 8 Certificate" width="700">
+  </a>
+</div>
 
-## Overview
-This course covers foundational models for NLP, language understanding, Word2Vec, sequence-to-sequence models, and document classification.
+## About the Course
+This course explores foundational NLP models, sequence-to-sequence architectures, and word embeddings.
 
-## Completed Notebooks
-- [Classifying Document](./notebooks/Classifying_Document.ipynb)
-- [Developing a Sequence-to-Sequence Model](./notebooks/Developing_a_Sequence-to-Sequence_Model.ipynb)
-- [Feed Forward Neural Networks](./notebooks/FeedForwardNeuralNetworks.ipynb)
-- [Integrating Word2Vec Part 1](./notebooks/Integrating_Word2Vec_Part1.ipynb)
-- [Integrating Word2Vec Part 2](./notebooks/Integrating_Word2Vec_Part2.ipynb)
-- [Language Modelling](./notebooks/LanguageModelling.ipynb)
+## What I Learned
+* Word Embeddings (Word2Vec)
+* Sequence-to-Sequence Models
+* Feed Forward Neural Networks
+* Document Classification
+
+## Project Files / Notebooks
+* [Classifying Document](./notebooks/Classifying_Document.ipynb)
+* [Developing a Sequence-to-Sequence Model](./notebooks/Developing_a_Sequence-to-Sequence_Model.ipynb)
+* [FeedForwardNeuralNetworks](./notebooks/FeedForwardNeuralNetworks.ipynb)
+* [Integrating Word2Vec Part1](./notebooks/Integrating_Word2Vec_Part1.ipynb)
+* [Integrating Word2Vec Part2](./notebooks/Integrating_Word2Vec_Part2.ipynb)
+* [LanguageModelling](./notebooks/LanguageModelling.ipynb)
+
+## Resources
+* [Cheat-Sheet](./resources/Cheat-Sheet.pdf)
+* [Glossary](./resources/Glossary.pdf)
+
+## Skills Demonstrated
+* NLP
+* Word2Vec
+* Seq2Seq

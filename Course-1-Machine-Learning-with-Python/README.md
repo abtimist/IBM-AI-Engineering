@@ -1,44 +1,46 @@
-# Course 1: Machine Learning with Python
-
-**Status:** ✅ Completed
+# Course 1 — Machine Learning with Python
 
 ## Certificate
-<a href="./certificate/certificate.pdf">
-    <img src="./certificate/certificate.png" width="100%" alt="Course 1 Certificate">
-</a>
+<div align="center">
+  <a href="./certificate/certificate.pdf">
+    <img src="./certificate/certificate.png" alt="Course 1 Certificate" width="700">
+  </a>
+</div>
 
-## Overview
-This course dives into the core principles of Machine Learning using Python. It covers supervised learning (classification and regression), unsupervised learning (clustering and dimensionality reduction), and evaluating model performance using Scikit-learn.
+## About the Course
+This course introduces the core concepts of Machine Learning, covering both supervised and unsupervised learning techniques using Scikit-learn.
 
-## Completed Notebooks
+## What I Learned
+* Supervised Learning (Classification and Regression)
+* Unsupervised Learning (Clustering and Dimensionality Reduction)
+* Model Evaluation and Metrics
+* Scikit-learn Pipelines
 
-### Supervised Learning - Regression
-- [Simple Linear Regression](./notebooks/Simple_Linear_Regression.ipynb)
-- [Multiple Linear Regression](./notebooks/Multiple_Linear_Regression.ipynb)
-- [Regularization in Linear Regression](./notebooks/Regularization_in_Linear_Regression.ipynb)
-- [Regression Trees Taxi Tip](./notebooks/Regression_Trees_Taxi_Tip.ipynb)
+## Project Files / Notebooks
+* [Comparing DBSCAN HDBSCAN](./notebooks/Comparing_DBSCAN_HDBSCAN.ipynb)
+* [Decision Tree SVM Credit Card Fraud](./notebooks/Decision_Tree_SVM_Credit_Card_Fraud.ipynb)
+* [Decision Trees](./notebooks/Decision_Trees.ipynb)
+* [Evaluating Classification Models](./notebooks/Evaluating_Classification_Models.ipynb)
+* [Evaluating K Means Clustering](./notebooks/Evaluating_K_Means_Clustering.ipynb)
+* [Evaluating Random Forest](./notebooks/Evaluating_Random_Forest.ipynb)
+* [Final Project AUS Weather Prediction](./notebooks/Final_Project_AUS_Weather_Prediction.ipynb)
+* [KNN Classification](./notebooks/KNN_Classification.ipynb)
+* [K Means Customer Segmentation](./notebooks/K_Means_Customer_Segmentation.ipynb)
+* [Logistic Regression](./notebooks/Logistic_Regression.ipynb)
+* [ML Pipelines and GridSearchCV](./notebooks/ML_Pipelines_and_GridSearchCV.ipynb)
+* [Multi class Classification](./notebooks/Multi_class_Classification.ipynb)
+* [Multiple Linear Regression](./notebooks/Multiple_Linear_Regression.ipynb)
+* [PCA Dimensionality Reduction](./notebooks/PCA_Dimensionality_Reduction.ipynb)
+* [Practice Project Titanic Survival](./notebooks/Practice_Project_Titanic_Survival.ipynb)
+* [Random Forests and XGBoost](./notebooks/Random_Forests_and_XGBoost.ipynb)
+* [Regression Trees Taxi Tip](./notebooks/Regression_Trees_Taxi_Tip.ipynb)
+* [Regularization in Linear Regression](./notebooks/Regularization_in_Linear_Regression.ipynb)
+* [Simple Linear Regression](./notebooks/Simple_Linear_Regression.ipynb)
+* [tSNE and UMAP](./notebooks/tSNE_and_UMAP.ipynb)
 
-### Supervised Learning - Classification
-- [Logistic Regression](./notebooks/Logistic_Regression.ipynb)
-- [Decision Trees](./notebooks/Decision_Trees.ipynb)
-- [KNN Classification](./notebooks/KNN_Classification.ipynb)
-- [Multi-class Classification](./notebooks/Multi_class_Classification.ipynb)
-- [Decision Tree & SVM on Credit Card Fraud](./notebooks/Decision_Tree_SVM_Credit_Card_Fraud.ipynb)
-- [Evaluating Classification Models](./notebooks/Evaluating_Classification_Models.ipynb)
-
-### Unsupervised Learning
-- [K-Means Customer Segmentation](./notebooks/K_Means_Customer_Segmentation.ipynb)
-- [Evaluating K-Means Clustering](./notebooks/Evaluating_K_Means_Clustering.ipynb)
-- [Comparing DBSCAN and HDBSCAN](./notebooks/Comparing_DBSCAN_HDBSCAN.ipynb)
-- [PCA Dimensionality Reduction](./notebooks/PCA_Dimensionality_Reduction.ipynb)
-- [t-SNE and UMAP](./notebooks/tSNE_and_UMAP.ipynb)
-
-### Ensembles & Pipelines
-- [Random Forests and XGBoost](./notebooks/Random_Forests_and_XGBoost.ipynb)
-- [Evaluating Random Forest](./notebooks/Evaluating_Random_Forest.ipynb)
-- [ML Pipelines and GridSearchCV](./notebooks/ML_Pipelines_and_GridSearchCV.ipynb)
-
-### Projects
-- **Practice Project:** [Titanic Survival Prediction](./notebooks/Practice_Project_Titanic_Survival.ipynb)
-- **Final Project:** [AUS Weather Rainfall Prediction](./notebooks/Final_Project_AUS_Weather_Prediction.ipynb)
-
+## Skills Demonstrated
+* Python
+* Scikit-learn
+* Classification
+* Regression
+* Clustering
